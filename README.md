@@ -6,7 +6,18 @@ Workflow Diagram
 
 ## Building
 
-- Main Dependencies
+Main Dependencies
+
+- Pytorch
+- Pandas
+- Numpy
+- Scikit Learn
+- Imbalanced Learn
+
+To install requirements, run:
+```
+pip install -r requirements.txt
+
 ```
 Usage
 
