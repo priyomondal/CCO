@@ -1,7 +1,7 @@
 # CCO: A Cluster Core-based Oversampling Technique for Improved Class-Imbalanced Learning
 Workflow Diagram
 
-![Image]([https://github.com/priyomondal/CCO/blob/main/my_folder/diagram_updated_workflow.png](https://github.com/priyomondal/CCO/blob/main/utils/diagram_updated_workflow.png))
+![Image](https://github.com/priyomondal/CCO/blob/main/utils/diagram_updated_workflow.png)
 
 
 ## Building
